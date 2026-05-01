@@ -11,5 +11,6 @@
 > **Luồng hoạt động**: Vite khởi động và tải `index.html`, sau đó thực thi `main.tsx` để render `App.tsx`. Từ đây, các component con được gọi để hiển thị giao diện (UI) hoàn chỉnh.
 
 ## 3. Sơ đồ Sequence
-<img width="914" height="836" alt="スクリーンショット 2026-04-27 154901" src="https://github.com/user-attachments/assets/eeadb12d-3a28-47fe-ab01-85c46cd58444" />
+<img width="865" height="820" alt="image" src="https://github.com/user-attachments/assets/919929e5-57f9-4890-8f13-c6d10aabee47" />
+
 
