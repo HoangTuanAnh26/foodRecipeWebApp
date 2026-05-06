@@ -1,5 +1,5 @@
 import React from 'react';
-import { useNavigate, useNavigation } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 // 1. Dữ liệu giả (Mock Data) cho Slide món ăn hấp dẫn
 const mockSlideMeals = [
@@ -16,7 +16,7 @@ const mockCategories = [
 ];
 
 const Home: React.FC = () => {
-    const navigate = useNavigation();
+    const navigate = useNavigate();
 
     return (
         <div className="home-container">
@@ -58,6 +58,3 @@ const Home: React.FC = () => {
 };
 
 export default Home;
-
-//Đang làm phần chuyển trang
-//Đọc tiệp theo Gemini > Sửa file Home

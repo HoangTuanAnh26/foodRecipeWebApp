@@ -60,7 +60,7 @@ body {
 }
 
 .slide-image {
-  width: 750px;
+  width: 600px;
   height: auto;
   object-fit: cover;
   border-radius: 8px;
@@ -89,7 +89,7 @@ body {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   /* display: flex;
   justify-content: center; */
-  width: 346px;
+  width: 300px;
 }
 
 .categories-item {
